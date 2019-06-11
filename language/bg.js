@@ -7,6 +7,7 @@ H5PEditor.language.core = {
   notImageOrDimensionsField: '":path" не е изображение или поле за размери.',
   requiredProperty: ':property е задължителна и трябва да има стойност.',
   onlyNumbers: 'Стойността на :property може да съдържа само числа.',
+  illegalDecimalNumber: ':property може да съдържа само числа с максимум :decimals десетични знака.',
   exceedsMax: 'Стойността на :property надвишава зададената максимална стойност от :max.',
   listExceedsMax: 'Списъкът надвишава максимално зададената стойност от :max елемента.',
   belowMin: 'Стойността на :property е по-малка от минимално зададената стойност от :min.',
